@@ -1,0 +1,8 @@
+C:\Users\Vladimir\source\repos\nagruzkaG2\nagruzkaG2\x64\Debug\nagruzkaG2.vcxproj.AssemblyReference.cache
+C:\Users\Vladimir\source\repos\nagruzkaG2\nagruzkaG2\x64\Debug\nagruzkaG2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Vladimir\source\repos\nagruzkaG2\nagruzkaG2\x64\Debug\nagruzkaG2.MyForm.resources
+C:\Users\Vladimir\source\repos\nagruzkaG2\nagruzkaG2\x64\Debug\nagruzkaG2.vcxproj.GenerateResource.cache
+C:\Users\Vova\source\repos\nagruzkaG2\nagruzkaG2\x64\Debug\nagruzkaG2.vcxproj.AssemblyReference.cache
+C:\Users\Vova\source\repos\nagruzkaG2\nagruzkaG2\x64\Debug\nagruzkaG2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Vova\source\repos\nagruzkaG2\nagruzkaG2\x64\Debug\nagruzkaG2.MyForm.resources
+C:\Users\Vova\source\repos\nagruzkaG2\nagruzkaG2\x64\Debug\nagruzkaG2.vcxproj.GenerateResource.cache
